@@ -71,7 +71,7 @@ firstName = 'Jon';
 	lastName = 'Snow'; 
 	age = 24;
 
-    console.log("Soy " + firstName + " " + lastName + ", " + "tengo " + age + " años y me gustan los lobos");
+    console.log(`Soy ${firstName} ${lastName}, tengo ${age} años y me gustan los lobos `);
 
 //? 1.3 --------------------------------------------------
 

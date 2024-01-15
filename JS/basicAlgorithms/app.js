@@ -203,7 +203,7 @@ console.log(avengers.length);
 
 const rickAndMortyCharacters = ["Rick", "Beth", "Jerry", "Morty", "Summer", "Lapiz Lopez"];
 
-rickAndMortyCharacters.splice(2, 1);
+rickAndMortyCharacters.splice(1, 1);
 
 console.log(rickAndMortyCharacters);
 
@@ -281,8 +281,6 @@ for (let i = 1; i <11; i++){
     console.log("Dormido!");
   }
 }
-
-
 
 
 
